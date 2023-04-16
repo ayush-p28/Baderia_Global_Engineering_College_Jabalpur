@@ -4,7 +4,8 @@ Just recreated my college(Badera global engineering college jabalpur) Website La
 ➡️Demo- https://ayush-p28.github.io/Baderia_Global_Engineering_College_Jabalpur/
 
 <br><br>
-
+Check Some ScreenShots:
+<br><br>
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/111777643/232324889-75d7d1fc-11d0-4790-932e-4ec38e8a84ac.png">
 
