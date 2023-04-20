@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /search
 Allow: /
 
-Sitemap: https://gluck-wunsche.blogspot.com/sitemap.xml
+Sitemap: https://ayush-p28.github.io/Baderia_Global_Engineering_College_Jabalpur/sitemap.xml
